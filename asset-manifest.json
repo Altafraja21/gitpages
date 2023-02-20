@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/gitpages/static/css/main.f7084d0b.css",
-    "main.js": "/gitpages/static/js/main.d443ca85.js",
-    "static/js/787.65a4f8da.chunk.js": "/gitpages/static/js/787.65a4f8da.chunk.js",
+    "main.css": "/gitpages/static/css/main.c60bd577.css",
+    "main.js": "/gitpages/static/js/main.40eae8a2.js",
+    "static/media/boy.png": "/gitpages/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/gitpages/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Gumela-Regular.otf": "/gitpages/static/media/Gumela-Regular.0ae83c6988a536716eb4.otf",
+    "static/media/thumbup.png": "/gitpages/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/crown.png": "/gitpages/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/gitpages/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "index.html": "/gitpages/index.html",
-    "main.f7084d0b.css.map": "/gitpages/static/css/main.f7084d0b.css.map",
-    "main.d443ca85.js.map": "/gitpages/static/js/main.d443ca85.js.map",
-    "787.65a4f8da.chunk.js.map": "/gitpages/static/js/787.65a4f8da.chunk.js.map"
+    "main.c60bd577.css.map": "/gitpages/static/css/main.c60bd577.css.map",
+    "main.40eae8a2.js.map": "/gitpages/static/js/main.40eae8a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7084d0b.css",
-    "static/js/main.d443ca85.js"
+    "static/css/main.c60bd577.css",
+    "static/js/main.40eae8a2.js"
   ]
 }
