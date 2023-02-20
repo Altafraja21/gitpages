@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gitpages/static/css/main.c60bd577.css",
+    "main.css": "/gitpages/static/css/main.2b4ee8fc.css",
     "main.js": "/gitpages/static/js/main.40eae8a2.js",
     "static/media/boy.png": "/gitpages/static/media/boy.5ca4b670a32b71681d2c.png",
     "static/media/glassesimoji.png": "/gitpages/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
@@ -9,11 +9,11 @@
     "static/media/crown.png": "/gitpages/static/media/crown.dbe416beae9b49b842ab.png",
     "static/media/Vector2.png": "/gitpages/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "index.html": "/gitpages/index.html",
-    "main.c60bd577.css.map": "/gitpages/static/css/main.c60bd577.css.map",
+    "main.2b4ee8fc.css.map": "/gitpages/static/css/main.2b4ee8fc.css.map",
     "main.40eae8a2.js.map": "/gitpages/static/js/main.40eae8a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c60bd577.css",
+    "static/css/main.2b4ee8fc.css",
     "static/js/main.40eae8a2.js"
   ]
 }
