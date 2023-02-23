@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gitpages/static/css/main.bc88f61c.css",
-    "main.js": "/gitpages/static/js/main.baa41daf.js",
+    "main.css": "/gitpages/static/css/main.9af81f89.css",
+    "main.js": "/gitpages/static/js/main.2df7d9be.js",
     "static/media/ecommerce.png": "/gitpages/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/profile1.png": "/gitpages/static/media/profile1.3d3eea6013abc454f213.png",
     "static/media/sidebar.png": "/gitpages/static/media/sidebar.b2225070b8adae68d063.png",
@@ -23,11 +23,11 @@
     "static/media/Vector2.png": "/gitpages/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/gitpages/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/gitpages/index.html",
-    "main.bc88f61c.css.map": "/gitpages/static/css/main.bc88f61c.css.map",
-    "main.baa41daf.js.map": "/gitpages/static/js/main.baa41daf.js.map"
+    "main.9af81f89.css.map": "/gitpages/static/css/main.9af81f89.css.map",
+    "main.2df7d9be.js.map": "/gitpages/static/js/main.2df7d9be.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc88f61c.css",
-    "static/js/main.baa41daf.js"
+    "static/css/main.9af81f89.css",
+    "static/js/main.2df7d9be.js"
   ]
 }
